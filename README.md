@@ -1,3 +1,10 @@
+<div align="center">
+  <br />
+      <img src="https://github.com/NiainaTR/NoteAI-ng/blob/main/public/LOGO.svg" alt="Project Banner">
+  <br />
+</div>
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
