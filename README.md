@@ -10,16 +10,7 @@
   <br />
 </div>
   <br />  <br />
-  <h3 align="center">
-    Dans un monde numérique où la gestion de l'information personnelle est devenue
-essentielle, les applications de prise de notes occupent une place centrale. C’est dans ce
-contexte que s’inscrit NoteAI-ng, un projet visant à créer une application web de prise de
-notes nouvelle génération, enrichie par l’intelligence artificielle. Contrairement aux
-solutions classiques, elle mise sur la simplicité d’usage, l’intuitivité de l’interface et
-l’accessibilité, tout en offrant aux utilisateurs la possibilité d’interagir avec une IA pour
-obtenir des insights pertinents à partir de leurs propres notes.
-    
-  </h3>
+  
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
